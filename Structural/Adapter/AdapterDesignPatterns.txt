@@ -1,0 +1,5 @@
+It works  as a Bridge between two incompatible interfaces.
+
+Say for Instance a Card reader , which can read data from a Memory Card and can play it in a Laptop. Here Card Reader is an Adapter
+
+
