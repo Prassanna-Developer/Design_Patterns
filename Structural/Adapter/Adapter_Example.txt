@@ -1,0 +1,6 @@
+Media Player supports only mp3 format 
+
+VLC Player supports vlc format and MP4 player supports mp4 format, so now making the Media Player to support all format,
+
+
+So Introduced MediaAdapter , so Media Player can use this to play all different formats
