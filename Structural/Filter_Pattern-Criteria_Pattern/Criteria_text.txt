@@ -1,0 +1,2 @@
+Enables developers to filter a set of objects using different criteria and chaining them 
+in a decoupled way through logical operations. 
