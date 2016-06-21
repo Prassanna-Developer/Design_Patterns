@@ -1,0 +1,1 @@
+Used to treat a group of objects as a single objects. Collecting all similar objects and maintaining it as n hierarchy of objects
