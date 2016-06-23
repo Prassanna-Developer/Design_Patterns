@@ -1,0 +1,4 @@
+Creates the warpper object on top on an object ...
+
+
+wraps the original class and provides additional functionality keeping class methods signature intact.
