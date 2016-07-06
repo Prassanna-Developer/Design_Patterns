@@ -1,0 +1,1 @@
+Its a Data Driven Patterns. Commands are chosen based on the data on the fly
